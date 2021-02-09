@@ -1,9 +1,10 @@
 require 'pry'
 
 def nyc_pigeon_organizer(data)
-  hash.each_with_object({}) do |(keys_descrip, detail_values), a|
+  hash.each_with_object({}) do |(keys_descrip, values_detail), sorted_array|
     binding.pry
-    final_array[description] = detail
+    sorted_array_array[description] = detail
+    end
   binding.pry
 end
 
