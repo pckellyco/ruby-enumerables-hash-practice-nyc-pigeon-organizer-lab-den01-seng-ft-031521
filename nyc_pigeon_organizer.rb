@@ -7,3 +7,4 @@ end
 
 
 # hash has key & key value
+# key value is array
